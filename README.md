@@ -1,7 +1,7 @@
-Require NPM package install:\n
-1.Express \n
-2.Morgan\n
-3.CORS\n
-4.Helmet\n
-Local Requirement:\n
+Require NPM package install:
+1.Express 
+2.Morgan
+3.CORS
+4.Helmet
+Local Requirement:
 .env
