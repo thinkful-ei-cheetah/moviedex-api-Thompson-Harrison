@@ -6,7 +6,7 @@ Require NPM package install:
 Local Requirement:
 .env
 Defaulte Link:
-Localhost:8000/movie
+localhost:8000/movie
 Options:
 1.genre
 2.country
