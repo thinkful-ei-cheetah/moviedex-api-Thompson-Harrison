@@ -5,3 +5,9 @@ Require NPM package install:
 4.Helmet
 Local Requirement:
 .env
+Defaulte Link:
+Localhost:8000/movie
+Options:
+1.genre
+2.country
+3.avg_vote
